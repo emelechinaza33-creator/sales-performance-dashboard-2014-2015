@@ -1,4 +1,7 @@
 # 📊 Sales Performance Dashboard (2014–2015)
+## Dashboard Preview
+
+![Sales Performance Dashboard](Screenshot%202026-07-04%20185608.png)
 
 ## Project Overview
 This project is an interactive Sales Performance Dashboard developed using Microsoft Excel. It analyses sales data from 2014–2015 to provide insights into regional revenue, monthly sales trends, and sales agent performance.
